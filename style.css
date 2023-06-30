@@ -1,0 +1,22 @@
+body { background-color: #96bd96;
+
+}
+
+.imagem{
+    width: 102%;
+    margin: -19px;
+    height: 600px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center ;
+}
+em strong {
+    color:darkred
+}
+.imagem2{
+    width: 30%;
+    
+}
